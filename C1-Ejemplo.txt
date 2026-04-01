@@ -1,3 +1,4 @@
 Linea inicial del usuario colaborador 1
 Archivo editado en la rama developc1
 Archivo modificado desde rama developc1 en el repo clonado
+Linea modificada para hacer push como colaborador
